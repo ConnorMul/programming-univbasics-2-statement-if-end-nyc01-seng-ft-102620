@@ -2,6 +2,6 @@
 current_time = Time.now.to_i 
 if current_time.even?
   puts "Even!"
-else curren_time.odd?
+else current_time.odd?
   puts "Odd!"
 end 
